@@ -1,0 +1,12 @@
+{
+  "User": {
+    "random": {
+      "rôle": "user",
+      "online": 0
+    },
+    "speedy": {
+      "rôle": "admin",
+      "online": 0
+    }
+  }
+}
